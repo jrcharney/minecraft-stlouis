@@ -15,3 +15,5 @@ Here we have a Minecraft world of the City of St. Louis, Missouri and St. Louis 
 * [St. Louis County GIS Github](https://github.com/stlouisco/stlouisco-gis)
 * [St. Louis County GIS OpenData Website](http://openstlco.stlcogis.opendata.arcgis.com/) powered by ArcGIS
 * [FME](http://www.safe.com/fme/fme-desktop/trial-download/) by SAFE. **TRIALWARE!**
+
+Using FME, we took local GIS information and processed it into a Minecraft Map. ([This article](https://knowledge.safe.com/articles/Samples_and_Demos/How-to-make-Minecraft-worlds) explains how it is done.)
