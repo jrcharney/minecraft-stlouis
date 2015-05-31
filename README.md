@@ -6,10 +6,10 @@ Part of [Build For STL](http://buildforstl.org/) for 2015, May 29 through May 31
 Here we have a Minecraft world of the City of St. Louis, Missouri and St. Louis County, Missouri.
 
 ## Contributors
-* Brett Lord-Castillo
+* []Brett Lord-Castillo](https://github.com/blordcastillo)
 * Max Oldt
-* Jason Charney
-* Jonathan Leek
+* [Jason Charney](https://github.com/jrcharney)
+* [Jonathan Leek](https://github.com/jonathanleek)
 
 ## Resources
 * [St. Louis County GIS Github](https://github.com/stlouisco/stlouisco-gis)
